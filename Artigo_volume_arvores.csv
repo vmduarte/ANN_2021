@@ -1,5 +1,5 @@
 ,Tipo,Local,Arvores,Especie,Estatistica,Dap,Altura,Volume
-1,1,SP,207,Eucalyptus spp,Media,9.71,9.09,38
+1,1,SP,207,Eucalyptus spp,Media,9.71,9.09,0.038
 2,1,SP,207,Eucalyptus spp,Desvio-padrao,2.51,2,0.0223
 3,1,SP,207,Eucalyptus spp,Minimo,3,3.4,0.0015
 4,1,SP,207,Eucalyptus spp,Maximo,15.6,13.4,0.1094
